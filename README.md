@@ -23,7 +23,7 @@ Following are the interested things to understand data better:
 The Jyputer Notebook and related data set used in this project is included. 
 
 ## Results
-The findings of the code can be found at the post available on Medium. 
+The findings of the code can be found at the post available on [Medium](https://medium.com/@rushitc98/developer-most-popular-language-database-platform-and-web-frame-work-8070c0802292)
 
 ## Licensing, Authors, Acknowledgements 
 All the credits to Stack Overflow for providing the data set. You can find the data set and other information on stack overflow survey
