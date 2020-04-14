@@ -19,6 +19,9 @@ Following are the interested things to understand data better:
    Converted into USD Dollar as per exchange rate on 2019-02-01, assuming 12 working months and 50 working weeks.)? 
 3. How many years’ experience they have to do programming?
 
+Throughout this project I have followed CRISP-DM process to get insight from the data and use visualization with the help of graph 
+wheneve it is necessary.
+
 ## File Descriptions 
 The Jyputer Notebook and related data set used in this project is included. Database Not able to include in the repo. It can be 
 found from by visitng this [link](https://insights.stackoverflow.com/survey)
